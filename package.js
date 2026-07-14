@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nextgenbotnetwork/fca-rahat.git
+    "url": "https://github.com/nextgenbotnetwork/fca-rahat.git"
   },
   "bugs": {
     "url": "https://github.com/nextgenbotnetwork/fca-rahat/issues"
